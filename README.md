@@ -1,4 +1,4 @@
-# 🛒 Blinkit Business Analytics Dashboard (Power BI)
+# Blinkit Business Analytics Dashboard (Power BI)
 
 ## Project Overview :
 
